@@ -1,0 +1,76 @@
+#	format
+#	type : id : name : level 1 name : level 2 name : level 3 name
+#
+#	Types:
+#		attack  = 0
+#		defense = 1
+#		speed   = 2
+#
+#	All numbers are assumed hex
+
+# atk
+0:00:Brawn Badge:Brawn Badge:Super Brawn Badge:Rare Brawn Badge
+0:01:Power Gloves:Power Gloves:High-Power Gloves:Max-Power Gloves
+0:02:Banana:Ordinary Banana:High-Quality Banana:Equisite Banana
+0:03:Sword:Steel Sword:Silver Sword:Legendary Sword
+0:04:Arm Cannon:Standard Arm Cannon:Deluxe Arm Cannon:Prototype Arm Cannon
+0:05:Egg:Medium Egg:Large Egg:Extra-Large Egg
+0:06:Lollipop:Yummy Lollipop:Delicious Lollipop:Decadent Lollipop
+0:07:Blaster:Standard Blaster:Deluxe Blaster:Prototype Blaster
+0:08:X Attack:X Attack:Threefold X Attack:Sixfold X Attack
+0:09:Bat:Decent Bat:Top-Notch Bat:Legendary Bat
+0:0A:Toad:Dedicated Toad:Brave Toad:Fearless Toad
+0:0B:Fake Nails:Bronze Fake Nails:Silver Fake Nails:Gold Fake Nails
+0:0C:Magic Stone:Enchanted Magic Stone:Mystical Magic Stone:Mysterious Magic Stone
+0:0D:Needles:Iron Needles:Steel Needles:Silver Needles
+0:0E:Hammer:100 lb. Hammer:1-ton Hammer:100-ton Hammer
+0:0F:Torch:Smoldering Torch:Burning Torch:Blazing Torch
+0:10:Zapper:Standard Zapper:Deluxe Zapper:Prototype Zapper
+0:11:Sacred Treasures:Heroic Sacred Treasures:Angelic Sacred Treasures:Godly Sacred Treasures
+0:12:Drill:Light Drill:Super Drill:Hyper Drill
+0:13:Beam Whip:Standard Beam Whip:Deluxe Beam Whip:Prototype Beam Whip
+0:14:Pikmin:Dedicated Pikmin:Brave Pikmin:Fearless Pikmin
+0:15:Staff:Enchanted Staff:Purifying Staff:Holy Staff
+0:16:Protein:One-Star Protein:Two-Star Protein:Three-Star Protein
+0:17:Boxing Gloves:Lightweight Boxing Gloves:Middleweight Boxing Gloves:Heavyweight Boxing Gloves
+0:18:Lloid:Mini Lloid:Good Ol' Lloid:Mega Lloid
+0:19:Tome:Apprentice's Tome:Expert's Tome:Sage's Tome
+
+# def
+1:1A:Protection Badge:Protection Badge:Super Protection Badge:Rare Protection Badge
+1:1B:Overalls:Ordinary Overalls:Trendy Overalls:Vintage Overalls
+1:1C:Tie:Discount Tie:Expensive Tie:Designer Tie
+1:1D:Shield:Steel Shield:Silver Shield:Legendary Shield
+1:1E:Suit:Light Suit:Super Suit:Hyper Suit
+1:1F:Saddle:Bronze Saddle:Silver Saddle:Gold Saddle
+1:20:Hat:Average Joe's Hat:Pretty Sweet Hat:Hero's Hat
+1:21:Jacket:Rookie's Jacket:Veteran's Jacket:Master's Jacket
+1:22:X Defense:X Defense:Threefold X Defense:Sixfold X Defense
+1:23:Cape:Squire's Cape:Knight's Cape:King's Cape
+1:24:Dress:Enchanted Dress:High-Quality Dress:Exquisite Dress
+1:25:Shell:Turtle Shell:Iron Shell:Diamond Shell
+1:26:Coat:Discount Coat:Expensive Coat:Designer Coat
+1:27:Raiment:Heroic Raiment:Angelic Raiment:Godly Raiment
+1:28:Watch Battery:Ordinary Watch Battery:High-Performance Watch Battery:Ultra-Performance Watch Battery
+1:29:Mask:Enigmatic Mask:Heroic Mask:Vengeful Mask
+1:2A:Space Suit:Standard Space Suit:Deluxe Space Suit:Prototype Space Suit
+1:2B:Block:Iron Block:Steel Block:Diamond Block
+1:2C:Ring:Bronze Ring:Silver Ring:Gold Ring
+1:2D:Clothes:Well-Worn Clothes:Stylish Clothes:Expensive Clothes
+1:2E:Collar:Bronze Collar:Silver Collar:Gold Collar
+1:2F:Helmet:Light Helmet:Super Helmet:Hyper Helmet
+
+# speed
+2:30:Agility Badge:Agility Badge:Super Agility Badge:Rare Agility Badge
+2:31:Shoes:Ordinary Shoes:Lightweight Shoes:Ultra-Lightweight Shoes
+2:32:Boots:Well-Worn Boots:Stylish Boots:Expensive Boots
+2:3C:Turbo Boost:Turbo Boost:Deluxe Turbo Boost:First-Class Turbo Boost
+2:34:Booster:Standard Booster:Deluxe Booster:Prototype Booster
+2:35:Pumps:Discount Pumps:Expensive Pumps:Designer Pumps
+2:36:Shin Guards:Ordinary Shin Guards:Lightweight Shin Guards:Ultra-Lightweight Shin Guards
+2:37:Sandals:Nimble Sandals:Swift Sandals:Speedy Sandals
+2:38:Dash Mushroom:Dash Mushroom:Double Dash Mushroom:Turbo Dash Mushroom
+2:39:Rocketbarrel Pack:High-Speed Rocketbarrel Pack:Mach-Speed Rocketbarrel Pack:Light-Speed Rocketbarrel Pack
+2:3A:Microchip:Ordinary Microchip:High-Performance Microchip:Ultra-Performance Microchip
+2:3B:Feather:Enchanted Feather:Shiny Feather:Shimmering Feather
+2:33:X Speed:X Speed:Threefold X Speed:Sixfold X Speed

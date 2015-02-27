@@ -1,0 +1,96 @@
+#	format
+#		id : name : effect
+
+00:Sprinter:1.3x running speed.
+01:Stroller:0.8x running speed.
+02:Glider:1.25x lateral air movement speed.
+03:Antiglide:0.8x lateral air movement speed.
+04:Leaper:1.2x jump height.
+05:Antileap:0.8x jump height.
+06:Speed Skater:1.5x movement speed on land, but watch that you don't slip!
+07:Hi-Jump:1.3x jump height from the ground.
+08:Lo-Jump:0.7x jump height from the ground.
+09:Double-Jump Boost:1.3x midair jump height.
+0A:Double-Jump Drag:0.7x midair jump height.
+0B:Thistle Jump:0.6x speed when falling.
+0C:Anchor Jump:1.4x speed when falling.
+0D:Speed Walker:1.3x walking speed.
+0E:Meanderer:0.8x walking speed.
+0F:Lingering Edge:Hang on to the edges of stages for twice as long.
+10:Hasty Edge:Hang on to the edges of stages for half as long.
+11:Gluey Edge:Increased range for grabbing stage edges.
+12:Tough Edge:Decreased range for grabbing stage edges.
+13:Hard Breaker:Stop on a dime even when dashing.
+14:Perfect-Shield Helper:More easily nullify attacks when blocking at the last second.
+15:Imperfect Shield:Only get a normal shield no matter how good your timing is.
+16:Shield Regenerator:Recharge your shield more quickly.
+17:Shield Degenerator:Recharge your shield more slowly.
+18:Air Defender:0.75x damage received when in midair.
+19:Air Piñata:1.2x damage received when in midair.
+1A:Nimble Dodger:Gives a little extra time to dodge an enemy attack.
+1B:Dodgy Dodger:Gives a bit less time to dodge an enemy attack.
+1C:Smooth Lander:Start moving again more quickly after landing.
+1D:Crash Lander:After landing, take more time to start moving again.
+1E:Quick Smasher:Charge smash attacks faster when holding the attack button.
+1F:Hyper Smasher:Charge smash attacks for longer to get 1.3x power.
+20:Air Attacker:1.15x attack power while airborne.
+21:Air Pushover:0.75x attack power while airborne.
+22:Meteor Master:1.5x power when using moves that launch opponents downward.
+23:Desperate Attacker:1.7x attack power for 20 seconds when damage reaches 100%.
+24:Desperate Defender:Take 0.33x damage for 20 seconds when damage reaches 100%.
+25:Desperate Speedster:1.55x speed for 20 seconds when damage reaches 100%.
+26:Desperate Specialist:Slowly increase attack, defense and speed for 20 seconds when damage reaches 100%
+27:Desperate Immortal:Gain 7 seconds of invincibility when your damage reaches 100%.
+28:Unharmed Attacker:1.5x attack power while damage is at 0%.
+29:Unharmed Speedster:1.32x speed while damage is at 0%.
+2A:Unharmed Speed Demon:Attack and speed gradually increase while damage is at 0%.
+2B:Trade-off Attacker:1.15x attack power from the start of the match...as well as 30% damage.
+2C:Trade-off Defender:Start the match with 30% damage, but take only 0.8x damage from attacks.
+2D:Trade-off Speedster:1.3x speed from the start of the match...as well as 30% damage.
+2E:All-around Trade-off:Start with 60% damage but slowly gain attack, defense, and speed.
+2F:Moon Launcher:1.3x attack power when launching enemies upward.
+30:Vampire:When directly striking an opponent, may recover health relative to damage inflicted.
+31:No-Flinch Smasher:You cannot be launched by standard attacks when charging a smash attack.
+32:Critical Hitter:Attacks get a 20% chance of dealing extra damage.
+33:Insult to Injury:1.4x damage when hitting a prone opponent.
+34:First Striker:If you land the first strike of the battle, you will be invincible for 10 seconds.
+35:Countdown:Greatly improved launch power for the last five seconds of a battle.
+36:Speed Crasher:Do damage to an opponent if you crash into them while dashing.
+37:Shield Exploder:Shield against an attack with perfect timing to create an explosion
+38:Shield Healer:Recover health when shielding relative to the power of received attacks.
+39:Shield Reflector:When shielding, reflect some damage back at your attackers.
+3A:Escape Artist:Escape more easily from being grabbed, stunned, etc.
+3B:Item Hurler:1.5x attack power to thrown items.
+3C:Item Lobber:0.7x attack power to thrown items.
+3D:Item Hitter:1.5x attack power to battering items.
+3E:Item Pitcher:Item-throwing range increased.
+3F:Item Shooter:1.5x attack power and ammo for items that fire projectiles.
+40:Quick Batter:Faster smash attacks when using the Home-Run Bat.
+41:Star Rod:Start battles with a Star Rod. Wave it to fire star-shaped projectiles.
+42:Lip's Stick:Start battles with a Lip's Stick. Hit an opponent to plant a damaging flower.
+43:Super Scope:Start battles with a Super Scope. Attack with charge shots or rapid fire!
+44:Ray Gun:Start battles with a Ray Gun. Blast your foes with lasers!
+45:Fire Flower:Start battles with a Fire Flower. Roast your enemies!
+46:Beam Sword:Start battles with a Beam Sword. The stronger the attack, the longer the reach.
+47:Home-Run Bat:Start battles with a Home-Run Bat. Use smash attacks and aim for the stands!
+48:Bob-omb:Start battles with a Bob-omb. Just don't hold on to it for too long...
+49:Mr. Saturn:Start matches with Mr. Saturn. He does huge damage to fighters' shields.
+4A:Food Lover:1.5x damage healed when eating food.
+4B:Picky Eater:0.7x damage healed when eating food.
+4C:Crouch Healer:Slowly heal damage while crouching.
+4D:Caloric Attacker:1.4x attack power for 15 seconds after eating food.
+4E:Caloric Speedster:1.38x speed for 15 seconds after eating food.
+4F:Caloric Defender:0.5x damage received for 15 seconds after eating food.
+50:Caloric Powerhouse:Attack, defense, and speed rise gradually for 15 seconds after eating food.
+51:KO Healer:Recover damage when you KO an enemy.
+52:Caloric Immortal:Become invincible for 5 seconds after eating food.
+53:Auto-Healer:Heal damage gradually over time.
+54:Smash Ball Attractor:Automatically draw Smash Balls to you.
+55:Pity Final Smasher:If you're losing badly, you have a higher chance of respawning with a Final Smash ready.
+56:Smash Ball Clinger:When glowing with your Final Smash, resist losing it when attacked.
+57:Super Final Smasher:Attack, defense, and speed rise gradually while you have the Final Smash glow.
+58:Final Smash Healer:Heal damage gradually while you have the Final Smash glow.
+59:Double Final Smasher:After using a Final Smash, you have a 20% chance of being able to use it again.
+5A:Sudden Death Gambler:Get a 50% chance of going into Sudden Death with only 100% damage.
+5B:Safe Respawner:Invincibility will last three times as long after being KO'd.
+5C:Risky Respawner:Get no invincibility after being KO'd.
