@@ -41,7 +41,7 @@ public class Character {
 			ret |= wario		? 0x0000000000000080L : 0L;
 			ret |= lucina		? 0x0000000000000400L : 0L;
 			ret |= darkPit		? 0x0000000000002000L : 0L;
-			ret |= drMario		? 0x0000000000080000L : 0L;
+			ret |= drMario		? 0x0000000000010000L : 0L;
 			ret |= rob			? 0x0000000000080000L : 0L;
 			ret |= ganondorf	? 0x0000000000400000L : 0L;
 			ret |= gameAndWatch	? 0x0000000002000000L : 0L;
